@@ -34,10 +34,10 @@ ext {
     license = [id  : 'MIT',
                name: 'The MIT License (MIT)',
                url : 'http://opensource.org/licenses/MIT']
-    groupName = 'com.github.blackyhawk'
+    groupName = 'io.github.blackyhawk'
     artifactName = 'HMvp'
     artifactDescription = 'Yet another Mvp library. Super simple, but with enough functionality.'
-    artifactLabels = ['MVP', 'RxJava', 'ButterKnife']
+    artifactLabels = ['MVP', 'RxJava2']
     releaseVersionCode = 1
     releaseVersionName = '1.0.0'
 
